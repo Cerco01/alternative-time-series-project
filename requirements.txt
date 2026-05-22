@@ -1,0 +1,9 @@
+numpy==2.4.3
+pandas==3.0.2
+matplotlib
+seaborn
+scikit-learn==1.7.2
+statsmodels==0.14.6
+pmdarima==2.0.4
+joblib
+jupyter

@@ -1,0 +1,9 @@
+__pycache__
+.env
+.learn
+.vscode
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/sales.csv
+TODO.md
+theory/
